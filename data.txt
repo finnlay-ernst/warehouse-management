@@ -1,0 +1,14 @@
+3000000 Example_Item10 60 20 5
+1872399 Example_Item4 60 4 6
+1231238 Example_Item12 5 80 34
+1000000 Example_Item8 60 5 5
+1312522 Example_Item2 50 10 17
+2238748 Example_Item1 30 9 1
+2000000 Example_Item9 60 7 15
+2398473 Example_Item6 87 6 7
+4500675 Example_Item7 37 5 8
+4128955 Example_Item5 24 6 3
+4000000 Example_Item11 60 7 13
+5636345 Example_Item3 60 1 1
+8800997 Example_ItemX 80 5 17
+

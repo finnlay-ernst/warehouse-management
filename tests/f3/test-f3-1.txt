@@ -1,0 +1,10 @@
+1000006 Example_Item6 0 285 220
+1000005 Example_Item5 0 29 290
+1000009 Example_Item9 0 144 184
+1000004 Example_Item4 0 155 54
+1000003 Example_Item3 0 92 207
+1000001 Example_Item1 0 232 80
+1000000 Example_Item0 0 128 312
+1000008 Example_Item8 0 310 70
+1000002 Example_Item2 0 218 184
+1000007 Example_Item7 0 97 30
